@@ -1,12 +1,21 @@
- Hi, I’m <b>Evelyn Sun 👋 </b>
+<h1>Hi, I’m <b>Evelyn Sun 👋</b></h1>
+
+<img src="IMG_3250.jpg" alt="Evelyn Sun" width="300" style="border-radius: 10px; margin-top: 10px;">
+
 <ul>
-  <li> 💻 I am currently a sophomore at Stony Brook University majoring in Computer Science and specializing in Artificial Intelligence </li>
-  <li> 👩🏻‍💻 I am also part of the Women in Science and Engineering Honors Program, where I currently serve as the Vice President </li>
-  <li> ⚙️ Additionally, I am a member of the Tau Beta Pi Engineering Honor Society, where students are held with academic excellence. </li>
-  <li> 📫 Check out my Linkedin! --> <a href = https://www.linkedin.com/in/evelyn-sun-845642296/ target=_blank> My Linkedin </a>
+  <li>💻 I’m a sophomore at <b>Stony Brook University</b>, majoring in Computer Science and specializing in Artificial Intelligence.</li>
+  <li>👩🏻‍💻 Vice President of the <b>Women in Science and Engineering Honors Program</b>.</li>
+  <li>⚙️ Member of the <b>Tau Beta Pi Engineering Honor Society</b>, recognizing academic excellence in engineering.</li>
+  <li>🧠 Interning at <b>M&T Bank</b>, where I built an internal chatbot and trained ML models for enterprise solutions.</li>
+  <li>🔬 Participated in a <b>DOE-funded research internship</b> at Brookhaven National Lab, optimizing machine learning algorithms for neutron classification.</li>
+  <li>🎓 Selected as a <b>Breakthrough Tech AI Fellow</b> to complete real-world AI/ML projects and gain mentorship in the AI industry.</li>
+  <li>🛠️ Experienced with full-stack web development, REST APIs, and deploying responsive applications.</li>
 </ul>
 
-<!---
-e2sun/e2sun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧰 <b>Languages & Tools:</b>  
+Java • Python • C • HTML • CSS • JavaScript • React • Node.js • Express • MongoDB • SQL • Angular • Git • TensorFlow • scikit-learn • pandas • NumPy
+
+📫 <b>Contact Me:</b>  
+• 📧 evelynsun632@gmail.com  
+• 💼 <a href="https://www.linkedin.com/in/evelyn-sun-845642296/" target="_blank">LinkedIn</a>  
+• 💻 <a href="https://github.com/e2sun" target="_blank">GitHub</a>  
