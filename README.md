@@ -3,7 +3,7 @@
 <img src="IMG_3250.jpg" alt="Evelyn Sun" width="300" style="border-radius: 10px; margin-top: 10px;">
 
 <ul>
-  <li>💻 I’m a sophomore at <b>Stony Brook University</b>, majoring in Computer Science and Applied Math and Statistics and specializing in Artificial Intelligence.</li>
+  <li>💻 I’m a rising junior at <b>Stony Brook University</b>, majoring in Computer Science and Applied Math and Statistics and specializing in Artificial Intelligence.</li>
   <li>👩🏻‍💻 Vice President of the <b>Women in Science and Engineering Honors Program</b>.</li>
   <li>⚙️ Member of the <b>Tau Beta Pi Engineering Honor Society</b>, recognizing academic excellence in engineering.</li>
   <li>🧠 Interning at <b>M&T Bank</b>, where I built an internal chatbot and trained ML models for enterprise solutions.</li>
